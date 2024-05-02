@@ -1,15 +1,11 @@
+@font-face {
+    font-family: Sora;
+    src: url(images/Sora.ttf);
+}
 * {
     font-family: Sora;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
-
-.sora-SoraFont {
-  font-family: "Sora", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
 main {
     min-height: 100vh;
     display: grid;
